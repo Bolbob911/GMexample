@@ -1,6 +1,6 @@
 
 
-nigga = false;
+nigga = true;
 hate_nigga = true;
 
 
